@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Examen__1_programaciion</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Examen Programacion 2.cs" Link="Examen Programacion 2.cs" />
+  </ItemGroup>
+
+</Project>
